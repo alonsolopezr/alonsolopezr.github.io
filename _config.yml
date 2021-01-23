@@ -28,8 +28,20 @@ url: "http://alonsolopezr.github.io" # the base hostname & protocol for your sit
 twitter_username: aloncello
 github_username: alonsolopezr
 
+#defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layouts: "post"
+      tittle: "TitleC"
+
 # Build settings
+markdown: kramdown
 theme: minima
+# theme: jekyll-theme-modernist
+
 plugins:
   - jekyll-feed
 # Exclude from processing.
