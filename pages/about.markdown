@@ -10,9 +10,9 @@ Also I am continiously working in IT projects with local communities and company
 And... I'm also a professional cellist at my dear OFS, (Sonora Philarmonic Orchestra), on covid-halt right now, but waiting to resurge! :)
 
 Some socials links:
-[Linkedin](https://www.linkedin.com/in/jose-alonso-lopez-romo-b426342/)
-[GitLab](https://gitlab.com/alonsolopez)
-
+<i class="fab fa-linkedin fa-lg"></i>[Linkedin](https://www.linkedin.com/in/jose-alonso-lopez-romo-b426342/)
+<i class="fab fa-gitlab fa-lg">[GitLab](https://gitlab.com/alonsolopez)
+<i class="fab fa-github fa-lg"></i></i>[GitHub](https://github.com/alonsolopezr)
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
 
